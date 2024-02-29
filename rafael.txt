@@ -1,2 +1,2 @@
 testando conflitos
-resolvendo conflitos
+resolvendo conflitos só que não
