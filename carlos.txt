@@ -1,4 +1,8 @@
 cação em dev
 é isso ... complicado
+<<<<<<< Updated upstream
 
 eu acho que estou na dev-julio
+=======
+era pra estar na dev julio 2
+>>>>>>> Stashed changes
