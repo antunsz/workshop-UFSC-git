@@ -1,2 +1,3 @@
 testando conflitos
 resolvendo conflitos só que não
+não faça o pull
